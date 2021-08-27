@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\6. Work\\Texode\\TZ\\Application.Core\\ApplicationTZ2.Core.csproj": {}
+  },
+  "projects": {
+    "E:\\6. Work\\Texode\\TZ\\Application.Core\\ApplicationTZ2.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\6. Work\\Texode\\TZ\\Application.Core\\ApplicationTZ2.Core.csproj",
+        "projectName": "ApplicationTZ2.Core",
+        "projectPath": "E:\\6. Work\\Texode\\TZ\\Application.Core\\ApplicationTZ2.Core.csproj",
+        "packagesPath": "C:\\Users\\shap3n\\.nuget\\packages\\",
+        "outputPath": "E:\\6. Work\\Texode\\TZ\\Application.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shap3n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net31"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net31": {
+            "targetAlias": "net3.1,netstanard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net31": {
+          "targetAlias": "net3.1,netstanard2.0",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

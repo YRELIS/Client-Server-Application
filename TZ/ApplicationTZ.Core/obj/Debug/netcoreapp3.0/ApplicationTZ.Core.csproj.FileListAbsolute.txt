@@ -1,0 +1,9 @@
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\bin\Debug\netcoreapp3.0\ApplicationTZ.Core.deps.json
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\bin\Debug\netcoreapp3.0\ApplicationTZ.Core.dll
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\bin\Debug\netcoreapp3.0\ApplicationTZ.Core.pdb
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\obj\Debug\netcoreapp3.0\ApplicationTZ.Core.csprojAssemblyReference.cache
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\obj\Debug\netcoreapp3.0\ApplicationTZ.Core.AssemblyInfoInputs.cache
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\obj\Debug\netcoreapp3.0\ApplicationTZ.Core.AssemblyInfo.cs
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\obj\Debug\netcoreapp3.0\ApplicationTZ.Core.csproj.CoreCompileInputs.cache
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\obj\Debug\netcoreapp3.0\ApplicationTZ.Core.dll
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\obj\Debug\netcoreapp3.0\ApplicationTZ.Core.pdb

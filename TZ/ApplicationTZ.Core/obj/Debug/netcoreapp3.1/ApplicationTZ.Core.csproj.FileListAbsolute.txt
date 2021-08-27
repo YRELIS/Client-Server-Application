@@ -1,0 +1,4 @@
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\obj\Debug\netcoreapp3.1\ApplicationTZ.Core.csprojAssemblyReference.cache
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\obj\Debug\netcoreapp3.1\ApplicationTZ.Core.AssemblyInfoInputs.cache
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\obj\Debug\netcoreapp3.1\ApplicationTZ.Core.AssemblyInfo.cs
+E:\6. Work\Texode\TZ\ApplicationTZ.Core\obj\Debug\netcoreapp3.1\ApplicationTZ.Core.csproj.CoreCompileInputs.cache
