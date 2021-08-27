@@ -27,3 +27,5 @@
 ![alt text](ReadmeRes/8.gif "Редактирование модели GIF")
 ![alt text](ReadmeRes/7.gif "Удаление модели GIF")
 ![alt text](ReadmeRes/9.gif "Сортировка моделей GIF")
+
+> Запускать TZ/TZ.sln
