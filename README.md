@@ -19,4 +19,11 @@
 >- обработка ошибок при работе с клиентом.
 
 # Скриншоты интерфейса
-![alt text](ReadmeRes/2.png "Главное окно")
+![alt text](ReadmeRes/2.PNG "Главное окно")
+![alt text](ReadmeRes/5.gif "Главное окно GIF")
+![alt text](ReadmeRes/3.PNG "Добавление новой модели")
+![alt text](ReadmeRes/6.gif "Добавление новой модели GIF")
+![alt text](ReadmeRes/4.PNG "Редактирование модели")
+![alt text](ReadmeRes/8.gif "Редактирование модели GIF")
+![alt text](ReadmeRes/7.gif "Удаление модели GIF")
+![alt text](ReadmeRes/9.gif "Сортировка моделей GIF")
